@@ -17,7 +17,7 @@ production SWIFT MT/MX conversion engine, and mobile money integration middlewar
 It doesn't live here. The systems above are proprietary and owned by the
 employers I built them for, so they aren't on GitHub and won't be.
 
-The public repositories on this profile are earlier personal and freelance work
+The public repositories on this profile are earlier personal work
 from 2020–2023. They're real, but they're not what I do now.
 
 **The current work is written up properly, with architecture diagrams:**
